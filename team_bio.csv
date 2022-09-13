@@ -1,0 +1,34 @@
+code,name,url,location,num_seasons,wins,loss,WL%,playoff_appear,champion
+ATL,Atlanta Hawks,https://www.basketball-reference.com/teams/ATL/,Atlanta Georgia,73,2838,2916,0.493,4,1
+BOS,Boston Celtics,https://www.basketball-reference.com/teams/BOS/,Boston Massachusetts,76,3500,2433,0.59,5,1
+NJN,Brooklyn Nets,https://www.basketball-reference.com/teams/NJN/,Brooklyn New York,55,1939,2491,0.438,29,2
+BRK,Brooklyn Nets,https://www.basketball-reference.com/teams/NJN/,Brooklyn New York,55,1939,2491,0.438,29,2
+CHA,Charlotte Hornets,https://www.basketball-reference.com/teams/CHA/,Charlotte North Carolina,32,1115,1417,0.44,1,0
+CHO,Charlotte Hornets,https://www.basketball-reference.com/teams/CHA/,Charlotte North Carolina,32,1115,1417,0.44,1,0
+CHI,Chicago Bulls,https://www.basketball-reference.com/teams/CHI/,Chicago Illinois,56,2297,2201,0.511,3,6
+CLE,Cleveland Cavaliers,https://www.basketball-reference.com/teams/CLE/,Cleveland Ohio,52,1925,2245,0.462,2,1
+DAL,Dallas Mavericks,https://www.basketball-reference.com/teams/DAL/,Dallas Texas,42,1696,1665,0.505,2,1
+DEN,Denver Nuggets,https://www.basketball-reference.com/teams/DEN/,Denver Colorado,55,2246,2184,0.507,36,0
+DET,Detroit Pistons,https://www.basketball-reference.com/teams/DET/,Detroit Michigan,74,2790,3026,0.48,4,3
+GSW,Golden State Warriors,https://www.basketball-reference.com/teams/GSW/,San Francisco California,76,2869,3052,0.485,3,6
+HOU,Houston Rockets,https://www.basketball-reference.com/teams/HOU/,Houston Texas,55,2301,2122,0.52,3,2
+IND,Indiana Pacers,https://www.basketball-reference.com/teams/IND/,Indianapolis Indiana,55,2272,2159,0.513,36,3
+LAC,Los Angeles Clippers,https://www.basketball-reference.com/teams/LAC/,Los Angeles California,52,1740,2439,0.416,1,0
+LAL,Los Angeles Lakers,https://www.basketball-reference.com/teams/LAL/,Los Angeles California,74,3455,2366,0.594,6,1
+MEM,Memphis Grizzlies,https://www.basketball-reference.com/teams/MEM/,Memphis Tennessee,27,908,1222,0.426,1,0
+MIA,Miami Heat,https://www.basketball-reference.com/teams/MIA/,Miami Florida,34,1421,1283,0.526,2,3
+MIL,Milwaukee Bucks,https://www.basketball-reference.com/teams/MIL/,Milwaukee Wisconsin,54,2270,2073,0.523,3,2
+MIN,Minnesota Timberwolves,https://www.basketball-reference.com/teams/MIN/,Minneapolis Minnesota,33,1039,1574,0.398,9,0
+NOH,New Orleans Pelicans,https://www.basketball-reference.com/teams/NOH/,New Orleans Louisiana,20,731,854,0.461,7,0
+NOP,New Orleans Pelicans,https://www.basketball-reference.com/teams/NOH/,New Orleans Louisiana,20,731,854,0.461,7,0
+NYK,New York Knicks,https://www.basketball-reference.com/teams/NYK/,New York New York,76,2865,3057,0.484,4,2
+OKC,Oklahoma City Thunder,https://www.basketball-reference.com/teams/OKC/,Oklahoma City Oklahoma,55,2369,2054,0.536,3,1
+ORL,Orlando Magic,https://www.basketball-reference.com/teams/ORL/,Orlando Florida,33,1228,1394,0.468,1,0
+PHI,Philadelphia 76ers,https://www.basketball-reference.com/teams/PHI/,Philadelphia Pennsylvania,73,2988,2770,0.519,5,3
+PHO,Phoenix Suns,https://www.basketball-reference.com/teams/PHO/,Phoenix Arizona,54,2322,2020,0.535,3,0
+POR,Portland Trail Blazers,https://www.basketball-reference.com/teams/POR/,Portland Oregon,52,2236,1943,0.535,3,1
+SAC,Sacramento Kings,https://www.basketball-reference.com/teams/SAC/,Sacramento California,74,2648,3177,0.455,2,1
+SAS,San Antonio Spurs,https://www.basketball-reference.com/teams/SAS/,San Antonio Texas,55,2629,1800,0.594,47,5
+TOR,Toronto Raptors,https://www.basketball-reference.com/teams/TOR/,Toronto Canada,27,1016,1111,0.478,1,1
+UTA,Utah Jazz,https://www.basketball-reference.com/teams/UTA/,Salt Lake City Utah,48,2099,1749,0.545,3,0
+WAS,Washington Wizards,https://www.basketball-reference.com/teams/WAS/,Washington District of Columbia,61,2215,2688,0.452,3,1

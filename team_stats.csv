@@ -1,0 +1,361 @@
+code,season,name,lg_id,team_name,wins,losses,win_loss_pct,rank_team,srs,pace,pace_rel,off_rtg,off_rtg_rel,def_rtg,def_rtg_rel,rank_team_playoffs,coaches,top_ws
+ATL,2020-21,Atlanta Hawks,NBA,Atlanta Hawks*,41,31,0.569,1st of 5,2.14,97.6,-1.6,115.7,3.4,113.3,1.0,Lost E. Conf. Finals,"['piercll01c', 'mcmilna01c']",capelca01
+ATL,2019-20,Atlanta Hawks,NBA,Atlanta Hawks,20,47,0.299,5th of 5,-7.71,103.0,2.7,107.2,-3.4,114.8,4.2,,['piercll01c'],youngtr01
+ATL,2018-19,Atlanta Hawks,NBA,Atlanta Hawks,29,53,0.354,5th of 5,-6.06,103.9,3.9,108.1,-2.3,113.9,3.5,,['piercll01c'],collijo01
+ATL,2017-18,Atlanta Hawks,NBA,Atlanta Hawks,24,58,0.293,5th of 5,-5.3,98.3,1.0,105.0,-3.6,110.6,2.0,,['budenmi99c'],collijo01
+ATL,2016-17,Atlanta Hawks,NBA,Atlanta Hawks*,43,39,0.524,2nd of 5,-1.23,97.4,1.0,104.9,-3.9,105.7,-3.1,Lost E. Conf. 1st Rnd.,['budenmi99c'],howardw01
+ATL,2015-16,Atlanta Hawks,NBA,Atlanta Hawks*,48,34,0.585,2nd of 5,3.49,97.1,1.3,105.1,-1.3,101.4,-5.0,Lost E. Conf. Semis,['budenmi99c'],millspa01
+ATL,2014-15,Atlanta Hawks,NBA,Atlanta Hawks*,60,22,0.732,1st of 5,4.75,93.9,0.0,108.9,3.3,103.1,-2.5,Lost E. Conf. Finals,['budenmi99c'],horfoal01
+ATL,2013-14,Atlanta Hawks,NBA,Atlanta Hawks*,38,44,0.463,4th of 5,-0.88,94.6,0.7,105.9,-0.8,106.4,-0.3,Lost E. Conf. 1st Rnd.,['budenmi99c'],millspa01
+ATL,2012-13,Atlanta Hawks,NBA,Atlanta Hawks*,44,38,0.537,2nd of 5,-0.08,92.6,0.6,104.8,-1.1,104.4,-1.5,Lost E. Conf. 1st Rnd.,['drewla01c'],horfoal01
+ATL,2011-12,Atlanta Hawks,NBA,Atlanta Hawks*,40,26,0.606,2nd of 5,2.67,90.2,-1.1,104.9,0.3,101.2,-3.4,Lost E. Conf. 1st Rnd.,['drewla01c'],smithjo03
+ATL,2010-11,Atlanta Hawks,NBA,Atlanta Hawks*,44,38,0.537,3rd of 5,-1.1,89.3,-2.8,106.1,-1.2,107.0,-0.3,Lost E. Conf. Semis,['drewla01c'],horfoal01
+ATL,2009-10,Atlanta Hawks,NBA,Atlanta Hawks*,53,29,0.646,2nd of 5,4.44,90.1,-2.6,111.9,4.3,106.7,-0.9,Lost E. Conf. Semis,['woodsmi01c'],horfoal01
+BOS,2020-21,Boston Celtics,NBA,Boston Celtics*,36,36,0.5,4th of 5,1.32,98.3,-0.9,114.0,1.7,112.5,0.2,Lost E. Conf. 1st Rnd.,['stevebr99c'],tatumja01
+BOS,2019-20,Boston Celtics,NBA,Boston Celtics*,48,24,0.667,2nd of 5,5.83,99.5,-0.8,113.3,2.7,107.0,-3.6,Lost E. Conf. Finals,['stevebr99c'],tatumja01
+BOS,2018-19,Boston Celtics,NBA,Boston Celtics*,49,33,0.598,3rd of 5,3.9,99.6,-0.4,112.2,1.8,107.8,-2.6,Lost E. Conf. Semis,['stevebr99c'],irvinky01
+BOS,2017-18,Boston Celtics,NBA,Boston Celtics*,55,27,0.671,2nd of 5,3.23,96.0,-1.3,107.6,-1.0,103.9,-4.7,Lost E. Conf. Finals,['stevebr99c'],irvinky01
+BOS,2016-17,Boston Celtics,NBA,Boston Celtics*,53,29,0.646,1st of 5,2.25,96.8,0.4,111.2,2.4,108.4,-0.4,Lost E. Conf. Finals,['stevebr99c'],thomais02
+BOS,2015-16,Boston Celtics,NBA,Boston Celtics*,48,34,0.585,2nd of 5,2.84,98.5,2.7,106.8,0.4,103.6,-2.8,Lost E. Conf. 1st Rnd.,['stevebr99c'],thomais02
+BOS,2014-15,Boston Celtics,NBA,Boston Celtics*,40,42,0.488,2nd of 5,-0.4,95.8,1.9,104.7,-0.9,104.5,-1.1,Lost E. Conf. 1st Rnd.,['stevebr99c'],zellety01
+BOS,2013-14,Boston Celtics,NBA,Boston Celtics,25,57,0.305,4th of 5,-4.97,93.3,-0.6,102.9,-3.8,107.7,1.0,,['stevebr99c'],bassbr01
+BOS,2012-13,Boston Celtics,NBA,Boston Celtics*,41,40,0.506,3rd of 5,-0.62,91.7,-0.3,103.1,-2.8,103.3,-2.6,Lost E. Conf. 1st Rnd.,['riverdo01c'],piercpa01
+BOS,2011-12,Boston Celtics,NBA,Boston Celtics*,39,27,0.591,1st of 5,2.26,90.4,-0.9,101.0,-3.6,98.2,-6.4,Lost E. Conf. Finals,['riverdo01c'],piercpa01
+BOS,2010-11,Boston Celtics,NBA,Boston Celtics*,56,26,0.683,1st of 5,4.83,90.4,-1.7,106.2,-1.1,100.3,-7.0,Lost E. Conf. Semis,['riverdo01c'],piercpa01
+BOS,2009-10,Boston Celtics,NBA,Boston Celtics*,50,32,0.61,1st of 5,3.37,91.6,-1.1,107.7,0.1,103.8,-3.8,Lost Finals,['riverdo01c'],rondora01
+NJN,2020-21,Brooklyn Nets,NBA,Brooklyn Nets*,48,24,0.667,2nd of 5,4.24,99.5,0.3,118.3,6.0,113.8,1.5,Lost E. Conf. Semis,['nashst01c'],irvinky01
+NJN,2019-20,Brooklyn Nets,NBA,Brooklyn Nets*,35,37,0.486,4th of 5,-1.01,101.4,1.1,108.9,-1.7,109.5,-1.1,Lost E. Conf. 1st Rnd.,"['atkinke01c', 'vaughja01c']",allenja01
+NJN,2018-19,Brooklyn Nets,NBA,Brooklyn Nets*,42,40,0.512,4th of 5,-0.4,100.8,0.8,109.6,-0.8,109.7,-0.7,Lost E. Conf. 1st Rnd.,['atkinke01c'],allenja01
+NJN,2017-18,Brooklyn Nets,NBA,Brooklyn Nets,28,54,0.341,5th of 5,-3.67,98.9,1.6,106.9,-1.7,110.6,2.0,,['atkinke01c'],dinwisp01
+NJN,2016-17,Brooklyn Nets,NBA,Brooklyn Nets,20,62,0.244,5th of 5,-6.74,101.3,4.9,104.1,-4.7,110.7,1.9,,['atkinke01c'],lopezbr01
+NJN,2015-16,Brooklyn Nets,NBA,Brooklyn Nets,21,61,0.256,4th of 5,-7.12,95.2,-0.6,103.2,-3.2,110.9,4.5,,"['hollili01c', 'brownto01c']",lopezbr01
+NJN,2014-15,Brooklyn Nets,NBA,Brooklyn Nets*,38,44,0.463,3rd of 5,-3.13,92.7,-1.2,104.4,-1.2,107.4,1.8,Lost E. Conf. 1st Rnd.,['hollili01c'],lopezbr01
+NJN,2013-14,Brooklyn Nets,NBA,Brooklyn Nets*,44,38,0.537,2nd of 5,-1.58,91.4,-2.5,106.7,0.0,107.7,1.0,Lost E. Conf. Semis,['kiddja01c'],willide01
+NJN,2012-13,Brooklyn Nets,NBA,Brooklyn Nets*,49,33,0.598,2nd of 5,1.25,88.8,-3.2,108.2,2.3,106.2,0.3,Lost E. Conf. 1st Rnd.,"['johnsav01c', 'carlepj99c']",willide01
+NJN,2011-12,Brooklyn Nets,NBA,New Jersey Nets,22,44,0.333,5th of 5,-6.37,90.1,-1.2,102.9,-1.7,109.6,5.0,,['johnsav01c'],humphkr01
+NJN,2010-11,Brooklyn Nets,NBA,New Jersey Nets,24,58,0.293,4th of 5,-6.28,89.9,-2.2,103.1,-4.2,109.9,2.6,,['johnsav01c'],lopezbr01
+NJN,2009-10,Brooklyn Nets,NBA,New Jersey Nets,12,70,0.146,5th of 5,-8.93,91.4,-1.3,100.6,-7.0,110.5,2.9,,"['frankla99c', 'barrito99c', 'vandeki01c']",lopezbr01
+CHA,2020-21,Charlotte Hornets,NBA,Charlotte Hornets,33,39,0.458,4th of 5,-1.94,98.3,-0.9,110.9,-1.4,112.8,0.5,,['borreja99c'],roziete01
+CHA,2019-20,Charlotte Hornets,NBA,Charlotte Hornets,23,42,0.354,3rd of 5,-7.03,95.8,-4.5,106.3,-4.3,113.3,2.7,,['borreja99c'],zelleco01
+CHA,2018-19,Charlotte Hornets,NBA,Charlotte Hornets,39,43,0.476,2nd of 5,-1.32,98.7,-1.3,111.4,1.0,112.5,2.1,,['borreja99c'],walkeke02
+CHA,2017-18,Charlotte Hornets,NBA,Charlotte Hornets,36,46,0.439,3rd of 5,0.07,98.4,1.1,109.4,0.8,109.1,0.5,,['cliffst99c'],walkeke02
+CHA,2016-17,Charlotte Hornets,NBA,Charlotte Hornets,36,46,0.439,4th of 5,-0.07,95.7,-0.7,108.8,0.0,108.6,-0.2,,['cliffst99c'],walkeke02
+CHA,2015-16,Charlotte Hornets,NBA,Charlotte Hornets*,48,34,0.585,3rd of 5,2.36,95.7,-0.1,107.1,0.7,104.3,-2.1,Lost E. Conf. 1st Rnd.,['cliffst99c'],walkeke02
+CHA,2014-15,Charlotte Hornets,NBA,Charlotte Hornets,33,49,0.402,4th of 5,-3.44,93.0,-0.9,100.1,-5.5,103.5,-2.1,,['cliffst99c'],jeffeal01
+CHA,2013-14,Charlotte Hornets,NBA,Charlotte Bobcats*,43,39,0.524,3rd of 5,-0.89,92.4,-1.5,103.6,-3.1,103.8,-2.9,Lost E. Conf. 1st Rnd.,['cliffst99c'],jeffeal01
+CHA,2012-13,Charlotte Hornets,NBA,Charlotte Bobcats,21,61,0.256,4th of 5,-9.29,91.5,-0.5,101.5,-4.4,111.5,5.6,,['dunlami99c'],walkeke02
+CHA,2011-12,Charlotte Hornets,NBA,Charlotte Bobcats,7,59,0.106,5th of 5,-13.96,91.1,-0.2,95.2,-9.4,110.4,5.8,,['silaspa01c'],brownde04
+CHA,2010-11,Charlotte Hornets,NBA,Charlotte Bobcats,34,48,0.415,4th of 5,-4.08,89.6,-2.5,103.4,-3.9,107.8,0.5,,"['brownla01c', 'silaspa01c']",augusdj01
+CHA,2009-10,Charlotte Hornets,NBA,Charlotte Bobcats*,44,38,0.537,4th of 5,1.3,90.4,-2.3,104.4,-3.2,102.8,-4.8,Lost E. Conf. 1st Rnd.,['brownla01c'],wallage01
+CHI,2020-21,Chicago Bulls,NBA,Chicago Bulls,31,41,0.431,3rd of 5,-0.94,99.0,-0.2,111.1,-1.2,112.0,-0.3,,['donovbi99c'],lavinza01
+CHI,2019-20,Chicago Bulls,NBA,Chicago Bulls,22,43,0.338,3rd of 5,-4.0,99.7,-0.6,106.7,-3.9,109.8,-0.8,,['boyleji02c'],lavinza01
+CHI,2018-19,Chicago Bulls,NBA,Chicago Bulls,22,60,0.268,4th of 5,-8.32,99.0,-1.0,104.8,-5.6,113.2,2.8,,"['hoibefr99c', 'boyleji02c']",arcidry01
+CHI,2017-18,Chicago Bulls,NBA,Chicago Bulls,27,55,0.329,5th of 5,-6.84,98.3,1.0,103.8,-4.8,110.9,2.3,,['hoibefr99c'],portibo01
+CHI,2016-17,Chicago Bulls,NBA,Chicago Bulls*,41,41,0.5,4th of 5,0.03,95.3,-1.1,107.4,-1.4,107.0,-1.8,Lost E. Conf. 1st Rnd.,['hoibefr99c'],butleji01
+CHI,2015-16,Chicago Bulls,NBA,Chicago Bulls,42,40,0.512,4th of 5,-1.46,95.7,-0.1,105.0,-1.4,106.5,0.1,,['hoibefr99c'],butleji01
+CHI,2014-15,Chicago Bulls,NBA,Chicago Bulls*,50,32,0.61,2nd of 5,2.54,92.8,-1.1,107.5,1.9,104.3,-1.3,Lost E. Conf. Semis,['thiboto99c'],butleji01
+CHI,2013-14,Chicago Bulls,NBA,Chicago Bulls*,48,34,0.585,2nd of 5,1.2,90.2,-3.7,102.5,-4.2,100.5,-6.2,Lost E. Conf. 1st Rnd.,['thiboto99c'],noahjo01
+CHI,2012-13,Chicago Bulls,NBA,Chicago Bulls*,45,37,0.549,2nd of 5,-0.02,89.3,-2.7,103.5,-2.4,103.2,-2.7,Lost E. Conf. Semis,['thiboto99c'],noahjo01
+CHI,2011-12,Chicago Bulls,NBA,Chicago Bulls*,50,16,0.758,1st of 5,7.43,89.1,-2.2,107.4,2.8,98.3,-6.3,Lost E. Conf. 1st Rnd.,['thiboto99c'],noahjo01
+CHI,2010-11,Chicago Bulls,NBA,Chicago Bulls*,62,20,0.756,1st of 5,6.53,90.4,-1.7,108.3,1.0,100.3,-7.0,Lost E. Conf. Finals,['thiboto99c'],rosede01
+CHI,2009-10,Chicago Bulls,NBA,Chicago Bulls*,41,41,0.5,3rd of 5,-1.64,93.1,0.4,103.5,-4.1,105.3,-2.3,Lost E. Conf. 1st Rnd.,['delnevi01c'],noahjo01
+CLE,2020-21,Cleveland Cavaliers,NBA,Cleveland Cavaliers,22,50,0.306,4th of 5,-8.19,97.3,-1.9,105.8,-6.5,114.4,2.1,,['bickejb01c'],allenja01
+CLE,2019-20,Cleveland Cavaliers,NBA,Cleveland Cavaliers,19,46,0.292,5th of 5,-7.77,98.7,-1.6,107.5,-3.1,115.4,4.8,,"['beilejo99c', 'bickejb01c']",nancela02
+CLE,2018-19,Cleveland Cavaliers,NBA,Cleveland Cavaliers,19,63,0.232,5th of 5,-9.39,96.6,-3.4,107.7,-2.7,117.6,7.2,,"['luety01c', 'drewla01c']",nancela02
+CLE,2017-18,Cleveland Cavaliers,NBA,Cleveland Cavaliers*,50,32,0.61,1st of 5,0.59,98.0,0.7,112.9,4.3,111.9,3.3,Lost Finals,['luety01c'],jamesle01
+CLE,2016-17,Cleveland Cavaliers,NBA,Cleveland Cavaliers*,51,31,0.622,1st of 5,2.87,96.2,-0.2,113.6,4.8,110.3,1.5,Lost Finals,['luety01c'],jamesle01
+CLE,2015-16,Cleveland Cavaliers,NBA,Cleveland Cavaliers*,57,25,0.695,1st of 5,5.45,93.3,-2.5,110.9,4.5,104.5,-1.9,Won Finals,"['blattda99c', 'luety01c']",jamesle01
+CLE,2014-15,Cleveland Cavaliers,NBA,Cleveland Cavaliers*,53,29,0.646,1st of 5,4.08,92.3,-1.6,111.1,5.5,106.3,0.7,Lost Finals,['blattda99c'],irvinky01
+CLE,2013-14,Cleveland Cavaliers,NBA,Cleveland Cavaliers,33,49,0.402,3rd of 5,-3.86,93.1,-0.8,104.2,-2.5,107.7,1.0,,['brownmi99c'],irvinky01
+CLE,2012-13,Cleveland Cavaliers,NBA,Cleveland Cavaliers,24,58,0.293,5th of 5,-4.87,92.3,0.3,104.3,-1.6,109.4,3.5,,['scottby01c'],irvinky01
+CLE,2011-12,Cleveland Cavaliers,NBA,Cleveland Cavaliers,21,45,0.318,5th of 5,-7.34,91.3,0.0,101.1,-3.5,108.9,4.3,,['scottby01c'],irvinky01
+CLE,2010-11,Cleveland Cavaliers,NBA,Cleveland Cavaliers,19,63,0.232,5th of 5,-8.88,93.0,0.9,102.2,-5.1,111.8,4.5,,['scottby01c'],sessira01
+CLE,2009-10,Cleveland Cavaliers,NBA,Cleveland Cavaliers*,61,21,0.744,1st of 5,6.17,91.4,-1.3,111.2,3.6,104.1,-3.5,Lost E. Conf. Semis,['brownmi99c'],jamesle01
+DAL,2020-21,Dallas Mavericks,NBA,Dallas Mavericks*,42,30,0.583,1st of 5,2.26,97.3,-1.9,115.4,3.1,113.0,0.7,Lost W. Conf. 1st Rnd.,['carliri01c'],doncilu01
+DAL,2019-20,Dallas Mavericks,NBA,Dallas Mavericks*,43,32,0.573,2nd of 5,4.87,99.3,-1.0,116.7,6.1,111.7,1.1,Lost W. Conf. 1st Rnd.,['carliri01c'],doncilu01
+DAL,2018-19,Dallas Mavericks,NBA,Dallas Mavericks,33,49,0.402,5th of 5,-0.87,99.0,-1.0,109.4,-1.0,110.7,0.3,,['carliri01c'],poweldw01
+DAL,2017-18,Dallas Mavericks,NBA,Dallas Mavericks,24,58,0.293,4th of 5,-2.7,95.6,-1.7,106.3,-2.3,109.5,0.9,,['carliri01c'],poweldw01
+DAL,2016-17,Dallas Mavericks,NBA,Dallas Mavericks,33,49,0.402,5th of 5,-2.53,92.2,-4.2,105.6,-3.2,108.8,0.0,,['carliri01c'],curryse01
+DAL,2015-16,Dallas Mavericks,NBA,Dallas Mavericks*,42,40,0.512,2nd of 5,-0.02,94.3,-1.5,106.7,0.3,107.0,0.6,Lost W. Conf. 1st Rnd.,['carliri01c'],nowitdi01
+DAL,2014-15,Dallas Mavericks,NBA,Dallas Mavericks*,50,32,0.61,4th of 5,3.36,95.2,1.3,109.5,3.9,106.4,0.8,Lost W. Conf. 1st Rnd.,['carliri01c'],chandty01
+DAL,2013-14,Dallas Mavericks,NBA,Dallas Mavericks*,49,33,0.598,4th of 5,2.91,93.5,-0.4,111.2,4.5,108.7,2.0,Lost W. Conf. 1st Rnd.,['carliri01c'],nowitdi01
+DAL,2012-13,Dallas Mavericks,NBA,Dallas Mavericks,41,41,0.5,4th of 5,-0.24,94.1,2.1,105.9,0.0,106.5,0.6,,['carliri01c'],cartevi01
+DAL,2011-12,Dallas Mavericks,NBA,Dallas Mavericks*,36,30,0.545,3rd of 5,1.78,91.4,0.1,103.3,-1.3,102.3,-2.3,Lost W. Conf. 1st Rnd.,['carliri01c'],nowitdi01
+DAL,2010-11,Dallas Mavericks,NBA,Dallas Mavericks*,57,25,0.695,2nd of 5,4.41,91.3,-0.8,109.7,2.4,105.0,-2.3,Won Finals,['carliri01c'],nowitdi01
+DAL,2009-10,Dallas Mavericks,NBA,Dallas Mavericks*,55,27,0.671,1st of 5,2.66,92.5,-0.2,109.2,1.6,106.3,-1.3,Lost W. Conf. 1st Rnd.,['carliri01c'],nowitdi01
+DEN,2020-21,Denver Nuggets,NBA,Denver Nuggets*,47,25,0.653,2nd of 5,4.82,97.1,-2.1,117.1,4.8,112.1,-0.2,Lost W. Conf. Semis,['malonmi99c'],jokicni01
+DEN,2019-20,Denver Nuggets,NBA,Denver Nuggets*,46,27,0.63,1st of 5,2.35,97.1,-3.2,113.1,2.5,111.0,0.4,Lost W. Conf. Finals,['malonmi99c'],jokicni01
+DEN,2018-19,Denver Nuggets,NBA,Denver Nuggets*,54,28,0.659,1st of 5,4.19,97.7,-2.3,113.0,2.6,108.9,-1.5,Lost W. Conf. Semis,['malonmi99c'],jokicni01
+DEN,2017-18,Denver Nuggets,NBA,Denver Nuggets,46,36,0.561,5th of 5,1.57,96.8,-0.5,112.5,3.9,111.0,2.4,,['malonmi99c'],jokicni01
+DEN,2016-17,Denver Nuggets,NBA,Denver Nuggets,40,42,0.488,4th of 5,0.7,98.3,1.9,113.2,4.4,112.7,3.9,,['malonmi99c'],jokicni01
+DEN,2015-16,Denver Nuggets,NBA,Denver Nuggets,33,49,0.402,4th of 5,-2.81,95.7,-0.1,105.6,-0.8,108.9,2.5,,['malonmi99c'],jokicni01
+DEN,2014-15,Denver Nuggets,NBA,Denver Nuggets,30,52,0.366,4th of 5,-3.07,96.1,2.2,104.5,-1.1,108.2,2.6,,"['shawbr01c', 'huntme01c']",lawsoty01
+DEN,2013-14,Denver Nuggets,NBA,Denver Nuggets,36,46,0.439,4th of 5,-1.4,98.1,4.2,106.0,-0.7,108.2,1.5,,['shawbr01c'],farieke01
+DEN,2012-13,Denver Nuggets,NBA,Denver Nuggets*,57,25,0.695,2nd of 5,5.37,95.1,3.1,110.4,4.5,105.1,-0.8,Lost W. Conf. 1st Rnd.,['karlge01c'],farieke01
+DEN,2011-12,Denver Nuggets,NBA,Denver Nuggets*,38,28,0.576,2nd of 5,3.16,94.2,2.9,109.2,4.6,106.2,1.6,Lost W. Conf. 1st Rnd.,['karlge01c'],lawsoty01
+DEN,2010-11,Denver Nuggets,NBA,Denver Nuggets*,50,32,0.61,2nd of 5,4.81,95.6,3.5,112.3,5.0,107.3,0.0,Lost W. Conf. 1st Rnd.,['karlge01c'],hilarne01
+DEN,2009-10,Denver Nuggets,NBA,Denver Nuggets*,53,29,0.646,1st of 5,4.15,94.8,2.1,111.8,4.2,107.5,-0.1,Lost W. Conf. 1st Rnd.,['karlge01c'],hilarne01
+DET,2020-21,Detroit Pistons,NBA,Detroit Pistons,20,52,0.278,5th of 5,-4.38,97.9,-1.3,108.0,-4.3,112.5,0.2,,['caseydw99c'],plumlma01
+DET,2019-20,Detroit Pistons,NBA,Detroit Pistons,20,46,0.303,4th of 5,-4.38,97.6,-2.7,109.0,-1.6,112.7,2.1,,['caseydw99c'],woodch01
+DET,2018-19,Detroit Pistons,NBA,Detroit Pistons*,41,41,0.5,3rd of 5,-0.56,97.4,-2.6,109.0,-1.4,109.2,-1.2,Lost E. Conf. 1st Rnd.,['caseydw99c'],drumman01
+DET,2017-18,Detroit Pistons,NBA,Detroit Pistons,39,43,0.476,4th of 5,-0.26,96.2,-1.1,107.2,-1.4,107.3,-1.3,,['vangust99c'],drumman01
+DET,2016-17,Detroit Pistons,NBA,Detroit Pistons,37,45,0.451,5th of 5,-1.29,95.0,-1.4,106.0,-2.8,107.1,-1.7,,['vangust99c'],harrito02
+DET,2015-16,Detroit Pistons,NBA,Detroit Pistons*,44,38,0.537,3rd of 5,0.43,95.1,-0.7,106.1,-0.3,105.5,-0.9,Lost E. Conf. 1st Rnd.,['vangust99c'],drumman01
+DET,2014-15,Detroit Pistons,NBA,Detroit Pistons,32,50,0.39,5th of 5,-1.39,92.8,-1.1,105.3,-0.3,106.4,0.8,,['vangust99c'],drumman01
+DET,2013-14,Detroit Pistons,NBA,Detroit Pistons,29,53,0.354,4th of 5,-4.13,94.9,1.0,105.9,-0.8,109.7,3.0,,"['cheekma01c', 'loyerjo99c']",drumman01
+DET,2012-13,Detroit Pistons,NBA,Detroit Pistons,29,53,0.354,4th of 5,-4.33,90.8,-1.2,103.8,-2.1,108.1,2.2,,['frankla99c'],monrogr01
+DET,2011-12,Detroit Pistons,NBA,Detroit Pistons,25,41,0.379,4th of 5,-5.19,89.2,-2.1,101.0,-3.6,106.3,1.7,,['frankla99c'],monrogr01
+DET,2010-11,Detroit Pistons,NBA,Detroit Pistons,30,52,0.366,4th of 5,-3.78,89.2,-2.9,107.7,0.4,111.7,4.4,,['kuestjo01c'],monrogr01
+DET,2009-10,Detroit Pistons,NBA,Detroit Pistons,27,55,0.329,5th of 5,-5.02,88.5,-4.2,105.6,-2.0,111.4,3.8,,['kuestjo01c'],wallabe01
+GSW,2020-21,Golden State Warriors,NBA,Golden State Warriors,39,33,0.542,4th of 5,1.1,102.2,3.0,111.1,-1.2,110.1,-2.2,,['kerrst01c'],curryst01
+GSW,2019-20,Golden State Warriors,NBA,Golden State Warriors,15,50,0.231,5th of 5,-8.12,100.3,0.0,105.2,-5.4,113.8,3.2,,['kerrst01c'],chrisma01
+GSW,2018-19,Golden State Warriors,NBA,Golden State Warriors*,57,25,0.695,1st of 5,6.42,100.9,0.9,115.9,5.5,109.5,-0.9,Lost Finals,['kerrst01c'],duranke01
+GSW,2017-18,Golden State Warriors,NBA,Golden State Warriors*,58,24,0.707,1st of 5,5.79,99.6,2.3,113.6,5.0,107.6,-1.0,Won Finals,['kerrst01c'],duranke01
+GSW,2016-17,Golden State Warriors,NBA,Golden State Warriors*,67,15,0.817,1st of 5,11.35,99.8,3.4,115.6,6.8,104.0,-4.8,Won Finals,['kerrst01c'],curryst01
+GSW,2015-16,Golden State Warriors,NBA,Golden State Warriors*,73,9,0.89,1st of 5,10.38,99.3,3.5,114.5,8.1,103.8,-2.6,Lost Finals,['kerrst01c'],curryst01
+GSW,2014-15,Golden State Warriors,NBA,Golden State Warriors*,67,15,0.817,1st of 5,10.01,98.3,4.4,111.6,6.0,101.4,-4.2,Won Finals,['kerrst01c'],curryst01
+GSW,2013-14,Golden State Warriors,NBA,Golden State Warriors*,51,31,0.622,2nd of 5,5.15,96.2,2.3,107.5,0.8,102.6,-4.1,Lost W. Conf. 1st Rnd.,['jacksma01c'],curryst01
+GSW,2012-13,Golden State Warriors,NBA,Golden State Warriors*,47,35,0.573,2nd of 5,1.32,94.5,2.5,106.4,0.5,105.5,-0.4,Lost W. Conf. Semis,['jacksma01c'],curryst01
+GSW,2011-12,Golden State Warriors,NBA,Golden State Warriors,23,43,0.348,4th of 5,-2.79,92.3,1.0,105.4,0.8,109.1,4.5,,['jacksma01c'],leeda02
+GSW,2010-11,Golden State Warriors,NBA,Golden State Warriors,36,46,0.439,3rd of 5,-2.0,94.8,2.7,108.2,0.9,110.7,3.4,,['smartke01c'],curryst01
+GSW,2009-10,Golden State Warriors,NBA,Golden State Warriors,26,56,0.317,4th of 5,-3.28,100.4,7.7,108.1,0.5,111.7,4.1,,['nelsodo01c'],maggeco01
+HOU,2020-21,Houston Rockets,NBA,Houston Rockets,17,55,0.236,5th of 5,-7.5,101.4,2.2,107.1,-5.2,114.9,2.6,,['silasst01c'],tateja01
+HOU,2019-20,Houston Rockets,NBA,Houston Rockets*,44,28,0.611,1st of 5,3.13,103.7,3.4,112.9,2.3,110.1,-0.5,Lost W. Conf. Semis,['dantomi01c'],hardeja01
+HOU,2018-19,Houston Rockets,NBA,Houston Rockets*,53,29,0.646,1st of 5,4.96,97.9,-2.1,115.5,5.1,110.7,0.3,Lost W. Conf. Semis,['dantomi01c'],hardeja01
+HOU,2017-18,Houston Rockets,NBA,Houston Rockets*,65,17,0.793,1st of 5,8.21,97.6,0.3,114.7,6.1,106.1,-2.5,Lost W. Conf. Finals,['dantomi01c'],hardeja01
+HOU,2016-17,Houston Rockets,NBA,Houston Rockets*,55,27,0.671,2nd of 5,5.84,100.0,3.6,114.7,5.9,109.0,0.2,Lost W. Conf. Semis,['dantomi01c'],hardeja01
+HOU,2015-16,Houston Rockets,NBA,Houston Rockets*,41,41,0.5,4th of 5,0.34,97.6,1.8,108.3,1.9,108.1,1.7,Lost W. Conf. 1st Rnd.,"['mchalke01c', 'bickejb01c']",hardeja01
+HOU,2014-15,Houston Rockets,NBA,Houston Rockets*,56,26,0.683,1st of 5,3.82,96.5,2.6,107.0,1.4,103.4,-2.2,Lost W. Conf. Finals,['mchalke01c'],hardeja01
+HOU,2013-14,Houston Rockets,NBA,Houston Rockets*,54,28,0.659,2nd of 5,5.06,96.3,2.4,111.0,4.3,106.3,-0.4,Lost W. Conf. 1st Rnd.,['mchalke01c'],hardeja01
+HOU,2012-13,Houston Rockets,NBA,Houston Rockets*,45,37,0.549,3rd of 5,3.69,96.1,4.1,109.7,3.8,106.1,0.2,Lost W. Conf. 1st Rnd.,['mchalke01c'],hardeja01
+HOU,2011-12,Houston Rockets,NBA,Houston Rockets,34,32,0.515,4th of 5,0.57,91.7,0.4,105.5,0.9,105.2,0.6,,['mchalke01c'],dragigo01
+HOU,2010-11,Houston Rockets,NBA,Houston Rockets,43,39,0.524,5th of 5,2.37,94.2,2.1,111.3,4.0,109.0,1.7,,['adelmri01c'],martike02
+HOU,2009-10,Houston Rockets,NBA,Houston Rockets,42,40,0.512,3rd of 5,-0.02,94.0,1.3,107.6,0.0,108.0,0.4,,['adelmri01c'],scolalu01
+IND,2020-21,Indiana Pacers,NBA,Indiana Pacers,34,38,0.472,2nd of 5,-0.13,101.6,2.4,112.4,0.1,112.4,0.1,,['bjorkna99c'],sabondo01
+IND,2019-20,Indiana Pacers,NBA,Indiana Pacers*,45,28,0.616,2nd of 5,1.63,98.9,-1.4,110.0,-0.6,108.0,-2.6,Lost E. Conf. 1st Rnd.,['mcmilna01c'],sabondo01
+IND,2018-19,Indiana Pacers,NBA,Indiana Pacers*,48,34,0.585,2nd of 5,2.76,98.1,-1.9,109.9,-0.5,106.5,-3.9,Lost E. Conf. 1st Rnd.,['mcmilna01c'],sabondo01
+IND,2017-18,Indiana Pacers,NBA,Indiana Pacers*,48,34,0.585,2nd of 5,1.18,96.0,-1.3,109.5,0.9,108.1,-0.5,Lost E. Conf. 1st Rnd.,['mcmilna01c'],oladivi01
+IND,2016-17,Indiana Pacers,NBA,Indiana Pacers*,42,40,0.512,3rd of 5,-0.64,95.9,-0.5,108.6,-0.2,108.8,0.0,Lost E. Conf. 1st Rnd.,['mcmilna01c'],teaguje01
+IND,2015-16,Indiana Pacers,NBA,Indiana Pacers*,45,37,0.549,2nd of 5,1.62,96.6,0.8,104.6,-1.8,102.9,-3.5,Lost E. Conf. 1st Rnd.,['vogelfr99c'],georgpa01
+IND,2014-15,Indiana Pacers,NBA,Indiana Pacers,38,44,0.463,4th of 5,-0.23,93.2,-0.7,103.5,-2.1,103.2,-2.4,,['vogelfr99c'],hillge01
+IND,2013-14,Indiana Pacers,NBA,Indiana Pacers*,56,26,0.683,1st of 5,3.63,92.5,-1.4,104.1,-2.6,99.3,-7.4,Lost E. Conf. Finals,['vogelfr99c'],georgpa01
+IND,2012-13,Indiana Pacers,NBA,Indiana Pacers*,49,32,0.605,1st of 5,3.34,90.2,-1.8,104.3,-1.6,99.8,-6.1,Lost E. Conf. Finals,['vogelfr99c'],hillge01
+IND,2011-12,Indiana Pacers,NBA,Indiana Pacers*,42,24,0.636,2nd of 5,2.6,90.7,-0.6,106.7,2.1,103.1,-1.5,Lost E. Conf. Semis,['vogelfr99c'],grangda01
+IND,2010-11,Indiana Pacers,NBA,Indiana Pacers*,37,45,0.451,2nd of 5,-1.38,94.7,2.6,104.8,-2.5,106.0,-1.3,Lost E. Conf. 1st Rnd.,"['obrieji99c', 'vogelfr99c']",grangda01
+IND,2009-10,Indiana Pacers,NBA,Indiana Pacers,32,50,0.39,4th of 5,-3.11,97.1,4.4,103.7,-3.9,106.8,-0.8,,['obrieji99c'],murphtr01
+LAC,2020-21,Los Angeles Clippers,NBA,Los Angeles Clippers*,47,25,0.653,2nd of 5,6.02,96.9,-2.3,117.6,5.3,111.2,-1.1,Lost W. Conf. Finals,['luety01c'],leonaka01
+LAC,2019-20,Los Angeles Clippers,NBA,Los Angeles Clippers*,49,23,0.681,2nd of 5,6.66,101.5,1.2,113.9,3.3,107.6,-3.0,Lost W. Conf. Semis,['riverdo01c'],leonaka01
+LAC,2018-19,Los Angeles Clippers,NBA,Los Angeles Clippers*,48,34,0.585,2nd of 5,1.09,101.7,1.7,112.4,2.0,111.5,1.1,Lost W. Conf. 1st Rnd.,['riverdo01c'],harremo01
+LAC,2017-18,Los Angeles Clippers,NBA,Los Angeles Clippers,42,40,0.512,2nd of 5,0.15,98.7,1.4,110.3,1.7,110.2,1.6,,['riverdo01c'],jordade01
+LAC,2016-17,Los Angeles Clippers,NBA,Los Angeles Clippers*,51,31,0.622,2nd of 5,4.42,96.1,-0.3,112.7,3.9,108.2,-0.6,Lost W. Conf. 1st Rnd.,['riverdo01c'],jordade01
+LAC,2015-16,Los Angeles Clippers,NBA,Los Angeles Clippers*,53,29,0.646,2nd of 5,4.13,95.8,0.0,108.3,1.9,103.8,-2.6,Lost W. Conf. 1st Rnd.,['riverdo01c'],paulch01
+LAC,2014-15,Los Angeles Clippers,NBA,Los Angeles Clippers*,56,26,0.683,2nd of 5,6.8,94.7,0.8,112.4,6.8,105.5,-0.1,Lost W. Conf. Semis,['riverdo01c'],paulch01
+LAC,2013-14,Los Angeles Clippers,NBA,Los Angeles Clippers*,57,25,0.695,1st of 5,7.27,95.9,2.0,112.1,5.4,104.8,-1.9,Lost W. Conf. Semis,['riverdo01c'],griffbl01
+LAC,2012-13,Los Angeles Clippers,NBA,Los Angeles Clippers*,56,26,0.683,1st of 5,6.43,91.1,-0.9,110.6,4.7,103.6,-2.3,Lost W. Conf. 1st Rnd.,['delnevi01c'],paulch01
+LAC,2011-12,Los Angeles Clippers,NBA,Los Angeles Clippers*,40,26,0.606,2nd of 5,2.82,89.2,-2.1,108.5,3.9,105.7,1.1,Lost W. Conf. Semis,['delnevi01c'],paulch01
+LAC,2010-11,Los Angeles Clippers,NBA,Los Angeles Clippers,32,50,0.39,4th of 5,-2.71,92.8,0.7,105.3,-2.0,108.7,1.4,,['delnevi01c'],griffbl01
+LAC,2009-10,Los Angeles Clippers,NBA,Los Angeles Clippers,29,53,0.354,3rd of 5,-6.01,92.6,-0.1,103.3,-4.3,110.1,2.5,,"['dunlemi01c', 'hugheki01c']",cambyma01
+LAL,2020-21,Los Angeles Lakers,NBA,Los Angeles Lakers*,42,30,0.583,3rd of 5,2.77,98.7,-0.5,109.9,-2.4,107.1,-5.2,Lost W. Conf. 1st Rnd.,['vogelfr99c'],harremo01
+LAL,2019-20,Los Angeles Lakers,NBA,Los Angeles Lakers*,52,19,0.732,1st of 5,6.28,100.9,0.6,112.0,1.4,106.3,-4.3,Won Finals,['vogelfr99c'],davisan02
+LAL,2018-19,Los Angeles Lakers,NBA,Los Angeles Lakers,37,45,0.451,4th of 5,-1.33,103.2,3.2,107.8,-2.6,109.5,-0.9,,['waltolu01c'],jamesle01
+LAL,2017-18,Los Angeles Lakers,NBA,Los Angeles Lakers,35,47,0.427,3rd of 5,-1.44,100.3,3.0,106.5,-2.1,108.0,-0.6,,['waltolu01c'],randlju01
+LAL,2016-17,Los Angeles Lakers,NBA,Los Angeles Lakers,26,56,0.317,4th of 5,-6.29,98.5,2.1,106.0,-2.8,113.0,4.2,,['waltolu01c'],willilo02
+LAL,2015-16,Los Angeles Lakers,NBA,Los Angeles Lakers,17,65,0.207,5th of 5,-8.92,95.6,-0.2,101.6,-4.8,111.6,5.2,,['scottby01c'],willilo02
+LAL,2014-15,Los Angeles Lakers,NBA,Los Angeles Lakers,21,61,0.256,5th of 5,-6.17,94.0,0.1,103.4,-2.2,110.6,5.0,,['scottby01c'],davised01
+LAL,2013-14,Los Angeles Lakers,NBA,Los Angeles Lakers,27,55,0.329,5th of 5,-5.33,98.7,4.8,104.2,-2.5,110.6,3.9,,['dantomi01c'],meeksjo01
+LAL,2012-13,Los Angeles Lakers,NBA,Los Angeles Lakers*,45,37,0.549,3rd of 5,1.48,94.4,2.4,107.8,1.9,106.6,0.7,Lost W. Conf. 1st Rnd.,"['brownmi99c', 'bickebe99c', 'dantomi01c']",bryanko01
+LAL,2011-12,Los Angeles Lakers,NBA,Los Angeles Lakers*,41,25,0.621,1st of 5,1.96,90.5,-0.8,106.0,1.4,104.4,-0.2,Lost W. Conf. Semis,['brownmi99c'],gasolpa01
+LAL,2010-11,Los Angeles Lakers,NBA,Los Angeles Lakers*,57,25,0.695,1st of 5,6.01,90.7,-1.4,111.0,3.7,104.3,-3.0,Lost W. Conf. Semis,['jacksph01c'],gasolpa01
+LAL,2009-10,Los Angeles Lakers,NBA,Los Angeles Lakers*,57,25,0.695,1st of 5,4.78,92.8,0.1,108.8,1.2,103.7,-3.9,Won Finals,['jacksph01c'],gasolpa01
+MEM,2020-21,Memphis Grizzlies,NBA,Memphis Grizzlies*,38,34,0.528,2nd of 5,1.07,100.4,1.2,112.0,-0.3,111.0,-1.3,Lost W. Conf. 1st Rnd.,['jenkita01c'],valanjo01
+MEM,2019-20,Memphis Grizzlies,NBA,Memphis Grizzlies,34,39,0.466,3rd of 5,-0.91,102.8,2.5,109.2,-1.4,110.3,-0.3,,['jenkita01c'],valanjo01
+MEM,2018-19,Memphis Grizzlies,NBA,Memphis Grizzlies,33,49,0.402,3rd of 5,-2.08,96.6,-3.4,106.1,-4.3,108.8,-1.6,,['bickejb01c'],conlemi01
+MEM,2017-18,Memphis Grizzlies,NBA,Memphis Grizzlies,22,60,0.268,5th of 5,-5.81,94.9,-2.4,104.5,-4.1,111.0,2.4,,"['fizdada01c', 'bickejb01c']",evansty01
+MEM,2016-17,Memphis Grizzlies,NBA,Memphis Grizzlies*,43,39,0.524,3rd of 5,0.96,92.3,-4.1,107.7,-1.1,107.1,-1.7,Lost W. Conf. 1st Rnd.,['fizdada01c'],conlemi01
+MEM,2015-16,Memphis Grizzlies,NBA,Memphis Grizzlies*,42,40,0.512,3rd of 5,-2.14,93.3,-2.5,105.4,-1.0,107.8,1.4,Lost W. Conf. 1st Rnd.,['joergda99c'],conlemi01
+MEM,2014-15,Memphis Grizzlies,NBA,Memphis Grizzlies*,55,27,0.671,2nd of 5,3.62,92.0,-1.9,105.7,0.1,102.2,-3.4,Lost W. Conf. Semis,['joergda99c'],gasolma01
+MEM,2013-14,Memphis Grizzlies,NBA,Memphis Grizzlies*,50,32,0.61,3rd of 5,2.18,89.9,-4.0,106.3,-0.4,104.6,-2.1,Lost W. Conf. 1st Rnd.,['joergda99c'],conlemi01
+MEM,2012-13,Memphis Grizzlies,NBA,Memphis Grizzlies*,56,26,0.683,2nd of 5,4.32,88.4,-3.6,104.9,-1.0,100.3,-5.6,Lost W. Conf. Finals,['hollili01c'],gasolma01
+MEM,2011-12,Memphis Grizzlies,NBA,Memphis Grizzlies*,41,25,0.621,2nd of 5,2.43,90.8,-0.5,104.0,-0.6,101.8,-2.8,Lost W. Conf. 1st Rnd.,['hollili01c'],gasolma01
+MEM,2010-11,Memphis Grizzlies,NBA,Memphis Grizzlies*,46,36,0.561,4th of 5,2.55,91.9,-0.2,107.6,0.3,105.1,-2.2,Lost W. Conf. Semis,['hollili01c'],randoza01
+MEM,2009-10,Memphis Grizzlies,NBA,Memphis Grizzlies,40,42,0.488,4th of 5,-1.39,93.6,0.9,108.3,0.7,109.9,2.3,,['hollili01c'],randoza01
+MIA,2020-21,Miami Heat,NBA,Miami Heat*,40,32,0.556,2nd of 5,-0.06,96.6,-2.6,111.2,-1.1,111.2,-1.1,Lost E. Conf. 1st Rnd.,['spoeler99c'],butleji01
+MIA,2019-20,Miami Heat,NBA,Miami Heat*,44,29,0.603,1st of 5,2.59,98.3,-2.0,112.5,1.9,109.5,-1.1,Lost Finals,['spoeler99c'],butleji01
+MIA,2018-19,Miami Heat,NBA,Miami Heat,39,43,0.476,3rd of 5,-0.45,98.2,-1.8,107.3,-3.1,107.6,-2.8,,['spoeler99c'],adebaba01
+MIA,2017-18,Miami Heat,NBA,Miami Heat*,44,38,0.537,1st of 5,0.15,95.6,-1.7,106.8,-1.8,106.3,-2.3,Lost E. Conf. 1st Rnd.,['spoeler99c'],olynyke01
+MIA,2016-17,Miami Heat,NBA,Miami Heat,41,41,0.5,3rd of 5,0.77,95.2,-1.2,107.8,-1.0,106.7,-2.1,,['spoeler99c'],whiteha01
+MIA,2015-16,Miami Heat,NBA,Miami Heat*,48,34,0.585,1st of 5,1.5,93.6,-2.2,106.1,-0.3,104.4,-2.0,Lost E. Conf. Semis,['spoeler99c'],whiteha01
+MIA,2014-15,Miami Heat,NBA,Miami Heat,37,45,0.451,3rd of 5,-2.92,90.9,-3.0,103.9,-1.7,106.7,1.1,,['spoeler99c'],denglu01
+MIA,2013-14,Miami Heat,NBA,Miami Heat*,54,28,0.659,1st of 5,4.15,91.2,-2.7,110.9,4.2,105.8,-0.9,Lost Finals,['spoeler99c'],jamesle01
+MIA,2012-13,Miami Heat,NBA,Miami Heat*,66,16,0.805,1st of 5,7.03,90.7,-1.3,112.3,6.4,103.7,-2.2,Won Finals,['spoeler99c'],jamesle01
+MIA,2011-12,Miami Heat,NBA,Miami Heat*,46,20,0.697,1st of 5,5.72,91.2,-0.1,106.6,2.0,100.2,-4.4,Won Finals,['spoeler99c'],jamesle01
+MIA,2010-11,Miami Heat,NBA,Miami Heat*,58,24,0.707,1st of 5,6.76,90.9,-1.2,111.7,4.4,103.5,-3.8,Lost Finals,['spoeler99c'],jamesle01
+MIA,2009-10,Miami Heat,NBA,Miami Heat*,47,35,0.573,3rd of 5,1.99,89.6,-3.1,106.6,-1.0,104.1,-3.5,Lost E. Conf. 1st Rnd.,['spoeler99c'],wadedw01
+MIL,2020-21,Milwaukee Bucks,NBA,Milwaukee Bucks*,46,26,0.639,1st of 5,5.57,102.2,3.0,117.2,4.9,111.4,-0.9,Won Finals,['budenmi99c'],antetgi01
+MIL,2019-20,Milwaukee Bucks,NBA,Milwaukee Bucks*,56,17,0.767,1st of 5,9.41,105.1,4.8,112.4,1.8,102.9,-7.7,Lost E. Conf. Semis,['budenmi99c'],antetgi01
+MIL,2018-19,Milwaukee Bucks,NBA,Milwaukee Bucks*,60,22,0.732,1st of 5,8.04,103.3,3.3,113.8,3.4,105.2,-5.2,Lost E. Conf. Finals,['budenmi99c'],antetgi01
+MIL,2017-18,Milwaukee Bucks,NBA,Milwaukee Bucks*,44,38,0.537,3rd of 5,-0.45,96.2,-1.1,109.8,1.2,110.1,1.5,Lost E. Conf. 1st Rnd.,"['kiddja01c', 'pruntjo01c']",antetgi01
+MIL,2016-17,Milwaukee Bucks,NBA,Milwaukee Bucks*,42,40,0.512,2nd of 5,-0.45,94.5,-1.9,109.1,0.3,109.3,0.5,Lost E. Conf. 1st Rnd.,['kiddja01c'],antetgi01
+MIL,2015-16,Milwaukee Bucks,NBA,Milwaukee Bucks,33,49,0.402,5th of 5,-3.98,94.2,-1.6,104.3,-2.1,108.7,2.3,,['kiddja01c'],monrogr01
+MIL,2014-15,Milwaukee Bucks,NBA,Milwaukee Bucks*,41,41,0.5,3rd of 5,-0.09,94.1,0.2,102.7,-2.9,102.2,-3.4,Lost E. Conf. 1st Rnd.,['kiddja01c'],middlkh01
+MIL,2013-14,Milwaukee Bucks,NBA,Milwaukee Bucks,15,67,0.183,5th of 5,-8.41,91.8,-2.1,103.0,-3.7,111.8,5.1,,['drewla01c'],hensojo01
+MIL,2012-13,Milwaukee Bucks,NBA,Milwaukee Bucks*,38,44,0.463,3rd of 5,-1.83,94.7,2.7,103.6,-2.3,105.2,-0.7,Lost E. Conf. 1st Rnd.,"['skilesc01c', 'boylaji99c']",ilyaser01
+MIL,2011-12,Milwaukee Bucks,NBA,Milwaukee Bucks,31,35,0.47,3rd of 5,-0.23,93.7,2.4,105.5,0.9,105.2,0.6,,['skilesc01c'],ilyaser01
+MIL,2010-11,Milwaukee Bucks,NBA,Milwaukee Bucks,35,47,0.427,3rd of 5,-1.02,89.8,-2.3,101.6,-5.7,102.5,-4.8,,['skilesc01c'],bogutan01
+MIL,2009-10,Milwaukee Bucks,NBA,Milwaukee Bucks*,46,36,0.561,2nd of 5,1.37,91.7,-1.0,104.9,-2.7,103.1,-4.5,Lost E. Conf. 1st Rnd.,['skilesc01c'],bogutan01
+MIN,2020-21,Minnesota Timberwolves,NBA,Minnesota Timberwolves,23,49,0.319,4th of 5,-5.25,101.6,2.4,109.5,-2.8,115.0,2.7,,"['saundry01c', 'finchch01c']",townska01
+MIN,2019-20,Minnesota Timberwolves,NBA,Minnesota Timberwolves,19,45,0.297,5th of 5,-4.02,103.4,3.1,108.1,-2.5,112.2,1.6,,['saundry01c'],townska01
+MIN,2018-19,Minnesota Timberwolves,NBA,Minnesota Timberwolves,36,46,0.439,5th of 5,-1.02,100.2,0.2,111.4,1.0,112.9,2.5,,"['thiboto99c', 'saundry01c']",townska01
+MIN,2017-18,Minnesota Timberwolves,NBA,Minnesota Timberwolves*,47,35,0.573,4th of 5,2.35,96.0,-1.3,113.4,4.8,111.1,2.5,Lost W. Conf. 1st Rnd.,['thiboto99c'],townska01
+MIN,2016-17,Minnesota Timberwolves,NBA,Minnesota Timberwolves,31,51,0.378,5th of 5,-0.64,94.6,-1.8,110.8,2.0,112.0,3.2,,['thiboto99c'],townska01
+MIN,2015-16,Minnesota Timberwolves,NBA,Minnesota Timberwolves,29,53,0.354,5th of 5,-3.38,95.2,-0.6,106.5,0.1,110.1,3.7,,['mitchsa01c'],townska01
+MIN,2014-15,Minnesota Timberwolves,NBA,Minnesota Timberwolves,16,66,0.195,5th of 5,-8.0,94.4,0.5,102.9,-2.7,112.2,6.6,,['saundfl99c'],dienggo01
+MIN,2013-14,Minnesota Timberwolves,NBA,Minnesota Timberwolves,40,42,0.488,3rd of 5,3.1,97.3,3.4,108.9,2.2,106.2,-0.5,,['adelmri01c'],loveke01
+MIN,2012-13,Minnesota Timberwolves,NBA,Minnesota Timberwolves,31,51,0.378,5th of 5,-1.83,92.8,0.8,102.9,-3.0,105.4,-0.5,,['adelmri01c'],pekovni01
+MIN,2011-12,Minnesota Timberwolves,NBA,Minnesota Timberwolves,26,40,0.394,5th of 5,-1.83,93.3,2.0,104.3,-0.3,106.6,2.0,,['adelmri01c'],loveke01
+MIN,2010-11,Minnesota Timberwolves,NBA,Minnesota Timberwolves,17,65,0.207,5th of 5,-5.97,96.5,4.4,104.2,-3.1,111.1,3.8,,['rambiku01c'],loveke01
+MIN,2009-10,Minnesota Timberwolves,NBA,Minnesota Timberwolves,15,67,0.183,5th of 5,-9.06,96.1,3.4,101.7,-5.9,111.6,4.0,,['rambiku01c'],loveke01
+NOH,2020-21,New Orleans Pelicans,NBA,New Orleans Pelicans,31,41,0.431,4th of 5,-0.2,100.1,0.9,113.5,1.2,113.8,1.5,,['vangust99c'],willizi01
+NOH,2019-20,New Orleans Pelicans,NBA,New Orleans Pelicans,30,42,0.417,5th of 5,-0.55,103.7,3.4,110.7,0.1,111.9,1.3,,['gentral99c'],ingrabr01
+NOH,2018-19,New Orleans Pelicans,NBA,New Orleans Pelicans,33,49,0.402,4th of 5,-1.1,103.3,3.3,111.4,1.0,112.6,2.2,,['gentral99c'],davisan02
+NOH,2017-18,New Orleans Pelicans,NBA,New Orleans Pelicans*,48,34,0.585,2nd of 5,1.48,100.5,3.2,109.6,1.0,108.3,-0.3,Lost W. Conf. Semis,['gentral99c'],davisan02
+NOH,2016-17,New Orleans Pelicans,NBA,New Orleans Pelicans,34,48,0.415,4th of 5,-1.69,98.0,1.6,105.2,-3.6,107.4,-1.4,,['gentral99c'],davisan02
+NOH,2015-16,New Orleans Pelicans,NBA,New Orleans Pelicans,30,52,0.366,5th of 5,-3.56,96.8,1.0,105.6,-0.8,109.5,3.1,,['gentral99c'],davisan02
+NOH,2014-15,New Orleans Pelicans,NBA,New Orleans Pelicans*,45,37,0.549,5th of 5,1.13,91.4,-2.5,108.2,2.6,107.3,1.7,Lost W. Conf. 1st Rnd.,['willimo01c'],davisan02
+NOH,2013-14,New Orleans Pelicans,NBA,New Orleans Pelicans,34,48,0.415,5th of 5,-1.98,92.2,-1.7,107.2,0.5,110.1,3.4,,['willimo01c'],davisan02
+NOH,2012-13,New Orleans Pelicans,NBA,New Orleans Hornets,27,55,0.329,5th of 5,-3.12,88.5,-3.5,105.7,-0.2,110.1,4.2,,['willimo01c'],anderry01
+NOH,2011-12,New Orleans Pelicans,NBA,New Orleans Hornets,21,45,0.318,5th of 5,-3.11,88.3,-3.0,100.9,-3.7,105.1,0.5,,['willimo01c'],jackja01
+NOH,2010-11,New Orleans Pelicans,NBA,New Orleans Hornets*,46,36,0.561,3rd of 5,1.28,88.7,-3.4,106.2,-1.1,105.2,-2.1,Lost W. Conf. 1st Rnd.,['willimo01c'],paulch01
+NOH,2009-10,New Orleans Pelicans,NBA,New Orleans Hornets,37,45,0.451,5th of 5,-2.27,92.6,-0.1,107.4,-0.2,110.1,2.5,,"['scottby01c', 'bowerje99c']",westda01
+NYK,2020-21,New York Knicks,NBA,New York Knicks*,41,31,0.569,3rd of 5,2.13,95.9,-3.3,110.6,-1.7,108.2,-4.1,Lost E. Conf. 1st Rnd.,['thiboto99c'],randlju01
+NYK,2019-20,New York Knicks,NBA,New York Knicks,21,45,0.318,5th of 5,-6.72,98.6,-1.7,106.5,-4.1,113.0,2.4,,"['fizdada01c', 'millemi99c']",robinmi01
+NYK,2018-19,New York Knicks,NBA,New York Knicks,17,65,0.207,5th of 5,-8.93,99.6,-0.4,104.5,-5.9,113.7,3.3,,['fizdada01c'],robinmi01
+NYK,2017-18,New York Knicks,NBA,New York Knicks,29,53,0.354,4th of 5,-3.53,96.8,-0.5,107.1,-1.5,110.7,2.1,,['hornaje01c'],kanteen01
+NYK,2016-17,New York Knicks,NBA,New York Knicks,31,51,0.378,3rd of 5,-3.87,96.0,-0.4,107.7,-1.1,111.5,2.7,,['hornaje01c'],anthoca01
+NYK,2015-16,New York Knicks,NBA,New York Knicks,32,50,0.39,3rd of 5,-2.74,93.4,-2.4,104.6,-1.8,107.6,1.2,,"['fishede01c', 'rambiku01c']",anthoca01
+NYK,2014-15,New York Knicks,NBA,New York Knicks,17,65,0.207,5th of 5,-9.5,91.2,-2.7,99.9,-5.7,110.0,4.4,,['fishede01c'],anthoca01
+NYK,2013-14,New York Knicks,NBA,New York Knicks,37,45,0.451,3rd of 5,-1.4,90.3,-3.6,108.3,1.6,109.1,2.4,,['woodsmi01c'],anthoca01
+NYK,2012-13,New York Knicks,NBA,New York Knicks*,54,28,0.659,1st of 5,3.73,89.8,-2.2,111.1,5.2,106.3,0.4,Lost E. Conf. Semis,['woodsmi01c'],anthoca01
+NYK,2011-12,New York Knicks,NBA,New York Knicks*,36,30,0.545,2nd of 5,2.39,93.2,1.9,104.4,-0.2,101.0,-3.6,Lost E. Conf. 1st Rnd.,"['dantomi01c', 'woodsmi01c']",chandty01
+NYK,2010-11,New York Knicks,NBA,New York Knicks*,42,40,0.512,2nd of 5,0.48,95.6,3.5,110.9,3.6,110.1,2.8,Lost E. Conf. 1st Rnd.,['dantomi01c'],stoudam01
+NYK,2009-10,New York Knicks,NBA,New York Knicks,29,53,0.354,3rd of 5,-4.01,94.0,1.3,107.6,0.0,111.6,4.0,,['dantomi01c'],leeda02
+OKC,2020-21,Oklahoma City Thunder,NBA,Oklahoma City Thunder,22,50,0.306,5th of 5,-10.13,101.0,1.8,103.5,-8.8,114.0,1.7,,['daignma99c'],gilgesh01
+OKC,2019-20,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,44,28,0.611,2nd of 5,2.33,98.8,-1.5,110.8,0.2,108.8,-1.8,Lost W. Conf. 1st Rnd.,['donovbi99c'],paulch01
+OKC,2018-19,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,49,33,0.598,4th of 5,3.56,102.8,2.8,110.3,-0.1,107.0,-3.4,Lost W. Conf. 1st Rnd.,['donovbi99c'],georgpa01
+OKC,2017-18,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,48,34,0.585,2nd of 5,3.42,96.7,-0.6,110.7,2.1,107.2,-1.4,Lost W. Conf. 1st Rnd.,['donovbi99c'],westbru01
+OKC,2016-17,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,47,35,0.573,2nd of 5,1.14,97.8,1.4,108.3,-0.5,107.5,-1.3,Lost W. Conf. 1st Rnd.,['donovbi99c'],westbru01
+OKC,2015-16,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,55,27,0.671,1st of 5,7.09,96.7,0.9,113.1,6.7,105.6,-0.8,Lost W. Conf. Finals,['donovbi99c'],duranke01
+OKC,2014-15,Oklahoma City Thunder,NBA,Oklahoma City Thunder,45,37,0.549,2nd of 5,2.47,95.7,1.8,107.8,2.2,105.5,-0.1,,['brooksc01c'],westbru01
+OKC,2013-14,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,59,23,0.72,1st of 5,6.66,95.4,1.5,110.5,3.8,103.9,-2.8,Lost W. Conf. Finals,['brooksc01c'],duranke01
+OKC,2012-13,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,60,22,0.732,1st of 5,9.15,93.3,1.3,112.4,6.5,102.6,-3.3,Lost W. Conf. Semis,['brooksc01c'],duranke01
+OKC,2011-12,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,47,19,0.712,1st of 5,6.44,93.0,1.7,109.8,5.2,103.2,-1.4,Lost Finals,['brooksc01c'],duranke01
+OKC,2010-11,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,55,27,0.671,1st of 5,3.81,92.7,0.6,111.2,3.9,107.2,-0.1,Lost W. Conf. Finals,['brooksc01c'],duranke01
+OKC,2009-10,Oklahoma City Thunder,NBA,Oklahoma City Thunder*,50,32,0.61,4th of 5,3.55,93.1,0.4,108.3,0.7,104.6,-3.0,Lost W. Conf. 1st Rnd.,['brooksc01c'],duranke01
+ORL,2020-21,Orlando Magic,NBA,Orlando Magic,21,51,0.292,5th of 5,-9.02,98.7,-0.5,105.1,-7.2,114.5,2.2,,['cliffst99c'],vucevni01
+ORL,2019-20,Orlando Magic,NBA,Orlando Magic*,33,40,0.452,2nd of 5,-0.93,98.6,-1.7,108.5,-2.1,109.5,-1.1,Lost E. Conf. 1st Rnd.,['cliffst99c'],vucevni01
+ORL,2018-19,Orlando Magic,NBA,Orlando Magic*,42,40,0.512,1st of 5,0.28,98.1,-1.9,108.9,-1.5,108.1,-2.3,Lost E. Conf. 1st Rnd.,['cliffst99c'],vucevni01
+ORL,2017-18,Orlando Magic,NBA,Orlando Magic,25,57,0.305,4th of 5,-4.92,98.1,0.8,105.2,-3.4,110.1,1.5,,['vogelfr99c'],augusdj01
+ORL,2016-17,Orlando Magic,NBA,Orlando Magic,29,53,0.354,5th of 5,-6.61,96.8,0.4,103.7,-5.1,110.5,1.7,,['vogelfr99c'],paytoel01
+ORL,2015-16,Orlando Magic,NBA,Orlando Magic,35,47,0.427,5th of 5,-1.68,96.0,0.2,105.1,-1.3,106.8,0.4,,['skilesc01c'],fournev01
+ORL,2014-15,Orlando Magic,NBA,Orlando Magic,25,57,0.305,5th of 5,-5.87,93.8,-0.1,101.6,-4.0,107.7,2.1,,"['vaughja01c', 'borreja99c']",vucevni01
+ORL,2013-14,Orlando Magic,NBA,Orlando Magic,23,59,0.28,5th of 5,-5.88,93.6,-0.3,101.7,-5.0,107.4,0.7,,['vaughja01c'],afflaar01
+ORL,2012-13,Orlando Magic,NBA,Orlando Magic,20,62,0.244,5th of 5,-7.12,92.2,0.2,101.6,-4.3,109.1,3.2,,['vaughja01c'],vucevni01
+ORL,2011-12,Orlando Magic,NBA,Orlando Magic*,37,29,0.561,3rd of 5,0.46,89.0,-2.3,105.0,0.4,104.1,-0.5,Lost E. Conf. 1st Rnd.,['vangust99c'],anderry01
+ORL,2010-11,Orlando Magic,NBA,Orlando Magic*,52,30,0.634,2nd of 5,4.92,91.2,-0.9,107.9,0.6,102.0,-5.3,Lost E. Conf. 1st Rnd.,['vangust99c'],howardw01
+ORL,2009-10,Orlando Magic,NBA,Orlando Magic*,59,23,0.72,1st of 5,7.12,92.0,-0.7,111.4,3.8,103.3,-4.3,Lost E. Conf. Finals,['vangust99c'],howardw01
+PHI,2020-21,Philadelphia 76ers,NBA,Philadelphia 76ers*,49,23,0.681,1st of 5,5.28,99.5,0.3,113.2,0.9,107.6,-4.7,Lost E. Conf. Semis,['riverdo01c'],embiijo01
+PHI,2019-20,Philadelphia 76ers,NBA,Philadelphia 76ers*,43,30,0.589,3rd of 5,2.25,99.0,-1.3,111.3,0.7,109.0,-1.6,Lost E. Conf. 1st Rnd.,['brownbr99c'],simmobe01
+PHI,2018-19,Philadelphia 76ers,NBA,Philadelphia 76ers*,51,31,0.622,2nd of 5,2.25,101.6,1.6,112.6,2.2,110.0,-0.4,Lost E. Conf. Semis,['brownbr99c'],embiijo01
+PHI,2017-18,Philadelphia 76ers,NBA,Philadelphia 76ers*,52,30,0.634,3rd of 5,4.3,99.8,2.5,109.5,0.9,105.0,-3.6,Lost E. Conf. Semis,['brownbr99c'],simmobe01
+PHI,2016-17,Philadelphia 76ers,NBA,Philadelphia 76ers,28,54,0.341,4th of 5,-5.83,98.5,2.1,103.2,-5.6,108.9,0.1,,['brownbr99c'],mccontj01
+PHI,2015-16,Philadelphia 76ers,NBA,Philadelphia 76ers,10,72,0.122,5th of 5,-9.92,97.9,2.1,98.8,-7.6,109.2,2.8,,['brownbr99c'],noelne01
+PHI,2014-15,Philadelphia 76ers,NBA,Philadelphia 76ers,18,64,0.22,4th of 5,-9.04,95.7,1.8,95.5,-10.1,104.8,-0.8,,['brownbr99c'],noelne01
+PHI,2013-14,Philadelphia 76ers,NBA,Philadelphia 76ers,19,63,0.232,5th of 5,-10.66,99.2,5.3,99.4,-7.3,109.9,3.2,,['brownbr99c'],youngth01
+PHI,2012-13,Philadelphia 76ers,NBA,Philadelphia 76ers,34,48,0.415,4th of 5,-3.51,91.0,-1.0,102.0,-3.9,105.7,-0.2,,['collido01c'],youngth01
+PHI,2011-12,Philadelphia 76ers,NBA,Philadelphia 76ers*,35,31,0.53,3rd of 5,3.59,89.7,-1.6,103.9,-0.7,99.2,-5.4,Lost E. Conf. Semis,['collido01c'],iguodan01
+PHI,2010-11,Philadelphia 76ers,NBA,Philadelphia 76ers*,41,41,0.5,3rd of 5,1.01,91.7,-0.4,106.6,-0.7,105.0,-2.3,Lost E. Conf. 1st Rnd.,['collido01c'],brandel01
+PHI,2009-10,Philadelphia 76ers,NBA,Philadelphia 76ers,27,55,0.329,4th of 5,-3.93,91.6,-1.1,106.1,-1.5,110.3,2.7,,['jordaed01c'],iguodan01
+PHO,2020-21,Phoenix Suns,NBA,Phoenix Suns*,51,21,0.708,1st of 5,5.67,97.2,-2.0,117.2,4.9,111.3,-1.0,Lost Finals,['willimo01c'],paulch01
+PHO,2019-20,Phoenix Suns,NBA,Phoenix Suns,34,39,0.466,3rd of 5,0.56,101.3,1.0,111.7,1.1,111.4,0.8,,['willimo01c'],bookede01
+PHO,2018-19,Phoenix Suns,NBA,Phoenix Suns,19,63,0.232,5th of 5,-8.61,100.5,0.5,105.9,-4.5,115.1,4.7,,['kokosig01c'],aytonde01
+PHO,2017-18,Phoenix Suns,NBA,Phoenix Suns,21,61,0.256,5th of 5,-8.8,100.3,3.0,103.5,-5.1,112.8,4.2,,"['watsoea01c', 'trianja99c']",lenal01
+PHO,2016-17,Phoenix Suns,NBA,Phoenix Suns,24,58,0.293,5th of 5,-5.14,100.3,3.9,106.6,-2.2,112.2,3.4,,['watsoea01c'],bledser01
+PHO,2015-16,Phoenix Suns,NBA,Phoenix Suns,23,59,0.28,4th of 5,-6.32,98.5,2.7,102.2,-4.2,109.0,2.6,,"['hornaje01c', 'watsoea01c']",teletmi01
+PHO,2014-15,Phoenix Suns,NBA,Phoenix Suns,39,43,0.476,3rd of 5,-0.38,96.3,2.4,105.3,-0.3,106.2,0.6,,['hornaje01c'],bledser01
+PHO,2013-14,Phoenix Suns,NBA,Phoenix Suns,48,34,0.585,3rd of 5,3.02,95.8,1.9,109.5,2.8,106.7,0.0,,['hornaje01c'],dragigo01
+PHO,2012-13,Phoenix Suns,NBA,Phoenix Suns,25,57,0.305,5th of 5,-5.75,93.4,1.4,101.2,-4.7,108.1,2.2,,"['gentral99c', 'hunteli01c']",dragigo01
+PHO,2011-12,Phoenix Suns,NBA,Phoenix Suns,33,33,0.5,3rd of 5,0.29,92.6,1.3,106.2,1.6,106.5,1.9,,['gentral99c'],gortama01
+PHO,2010-11,Phoenix Suns,NBA,Phoenix Suns,40,42,0.488,2nd of 5,-0.46,94.4,2.3,109.5,2.2,110.4,3.1,,['gentral99c'],nashst01
+PHO,2009-10,Phoenix Suns,NBA,Phoenix Suns*,54,28,0.659,2nd of 5,4.67,95.3,2.6,115.3,7.7,110.2,2.6,Lost W. Conf. Finals,['gentral99c'],stoudam01
+POR,2020-21,Portland Trail Blazers,NBA,Portland Trail Blazers*,42,30,0.583,3rd of 5,1.81,98.4,-0.8,117.8,5.5,116.0,3.7,Lost W. Conf. 1st Rnd.,['stottte99c'],lillada01
+POR,2019-20,Portland Trail Blazers,NBA,Portland Trail Blazers*,35,39,0.473,4th of 5,-0.61,100.7,0.4,113.7,3.1,114.8,4.2,Lost W. Conf. 1st Rnd.,['stottte99c'],lillada01
+POR,2018-19,Portland Trail Blazers,NBA,Portland Trail Blazers*,53,29,0.646,2nd of 5,4.43,99.1,-0.9,114.7,4.3,110.5,0.1,Lost W. Conf. Finals,['stottte99c'],lillada01
+POR,2017-18,Portland Trail Blazers,NBA,Portland Trail Blazers*,49,33,0.598,1st of 5,2.6,96.5,-0.8,109.1,0.5,106.4,-2.2,Lost W. Conf. 1st Rnd.,['stottte99c'],lillada01
+POR,2016-17,Portland Trail Blazers,NBA,Portland Trail Blazers*,41,41,0.5,3rd of 5,-0.23,96.7,0.3,110.3,1.5,110.8,2.0,Lost W. Conf. 1st Rnd.,['stottte99c'],lillada01
+POR,2015-16,Portland Trail Blazers,NBA,Portland Trail Blazers*,44,38,0.537,2nd of 5,0.98,96.0,0.2,108.8,2.4,108.0,1.6,Lost W. Conf. Semis,['stottte99c'],lillada01
+POR,2014-15,Portland Trail Blazers,NBA,Portland Trail Blazers*,51,31,0.622,1st of 5,4.41,94.2,0.3,108.2,2.6,103.7,-1.9,Lost W. Conf. 1st Rnd.,['stottte99c'],lillada01
+POR,2013-14,Portland Trail Blazers,NBA,Portland Trail Blazers*,54,28,0.659,2nd of 5,4.44,94.9,1.0,111.5,4.8,107.4,0.7,Lost W. Conf. Semis,['stottte99c'],lillada01
+POR,2012-13,Portland Trail Blazers,NBA,Portland Trail Blazers,33,49,0.402,4th of 5,-2.53,91.4,-0.6,105.8,-0.1,109.2,3.3,,['stottte99c'],aldrila01
+POR,2011-12,Portland Trail Blazers,NBA,Portland Trail Blazers,28,38,0.424,4th of 5,-0.22,91.2,-0.1,105.7,1.1,106.4,1.8,,"['mcmilna01c', 'canalka99c']",aldrila01
+POR,2010-11,Portland Trail Blazers,NBA,Portland Trail Blazers*,48,34,0.585,3rd of 5,1.85,87.9,-4.2,108.8,1.5,107.1,-0.2,Lost W. Conf. 1st Rnd.,['mcmilna01c'],aldrila01
+POR,2009-10,Portland Trail Blazers,NBA,Portland Trail Blazers*,50,32,0.61,3rd of 5,3.18,87.7,-5.0,110.8,3.2,107.1,-0.5,Lost W. Conf. 1st Rnd.,['mcmilna01c'],roybr01
+SAC,2020-21,Sacramento Kings,NBA,Sacramento Kings,31,41,0.431,5th of 5,-3.45,100.0,0.8,113.6,1.3,117.2,4.9,,['waltolu01c'],holmeri01
+SAC,2019-20,Sacramento Kings,NBA,Sacramento Kings,31,41,0.431,4th of 5,-1.59,98.9,-1.4,110.2,-0.4,112.2,1.6,,['waltolu01c'],bjeline01
+SAC,2018-19,Sacramento Kings,NBA,Sacramento Kings,39,43,0.476,3rd of 5,-0.81,103.1,3.1,110.4,0.0,111.5,1.1,,['joergda99c'],caulewi01
+SAC,2017-18,Sacramento Kings,NBA,Sacramento Kings,27,55,0.329,4th of 5,-6.6,94.9,-2.4,103.7,-4.9,111.1,2.5,,['joergda99c'],caulewi01
+SAC,2016-17,Sacramento Kings,NBA,Sacramento Kings,32,50,0.39,3rd of 5,-3.29,94.9,-1.5,107.3,-1.5,111.3,2.5,,['joergda99c'],couside01
+SAC,2015-16,Sacramento Kings,NBA,Sacramento Kings,33,49,0.402,3rd of 5,-2.32,100.0,4.2,106.0,-0.4,108.4,2.0,,['karlge01c'],couside01
+SAC,2014-15,Sacramento Kings,NBA,Sacramento Kings,29,53,0.354,4th of 5,-3.07,95.4,1.5,105.3,-0.3,109.2,3.6,,"['malonmi99c', 'corbity01c', 'karlge01c']",gayru01
+SAC,2013-14,Sacramento Kings,NBA,Sacramento Kings,28,54,0.341,4th of 5,-2.08,94.4,0.5,105.7,-1.0,108.8,2.1,,['malonmi99c'],couside01
+SAC,2012-13,Sacramento Kings,NBA,Sacramento Kings,28,54,0.341,4th of 5,-4.26,93.6,1.6,106.2,0.3,111.4,5.5,,['smartke01c'],thomais02
+SAC,2011-12,Sacramento Kings,NBA,Sacramento Kings,22,44,0.333,5th of 5,-4.95,94.7,3.4,103.8,-0.8,109.8,5.2,,"['westppa01c', 'smartke01c']",thomais02
+SAC,2010-11,Sacramento Kings,NBA,Sacramento Kings,24,58,0.293,5th of 5,-4.8,95.2,3.1,103.5,-3.8,109.0,1.7,,['westppa01c'],udrihbe01
+SAC,2009-10,Sacramento Kings,NBA,Sacramento Kings,25,57,0.305,5th of 5,-4.06,94.0,1.3,105.3,-2.3,109.9,2.3,,['westppa01c'],udrihbe01
+SAS,2020-21,San Antonio Spurs,NBA,San Antonio Spurs,33,39,0.458,3rd of 5,-1.58,98.9,-0.3,111.0,-1.3,112.8,0.5,,['popovgr99c'],derozde01
+SAS,2019-20,San Antonio Spurs,NBA,San Antonio Spurs,32,39,0.451,4th of 5,-0.65,100.5,0.2,112.4,1.8,113.5,2.9,,['popovgr99c'],derozde01
+SAS,2018-19,San Antonio Spurs,NBA,San Antonio Spurs*,48,34,0.585,2nd of 5,1.8,98.3,-1.7,112.9,2.5,111.2,0.8,Lost W. Conf. 1st Rnd.,['popovgr99c'],aldrila01
+SAS,2017-18,San Antonio Spurs,NBA,San Antonio Spurs*,47,35,0.573,3rd of 5,2.89,95.0,-2.3,107.9,-0.7,104.8,-3.8,Lost W. Conf. 1st Rnd.,['popovgr99c'],aldrila01
+SAS,2016-17,San Antonio Spurs,NBA,San Antonio Spurs*,61,21,0.744,1st of 5,7.13,94.2,-2.2,111.1,2.3,103.5,-5.3,Lost W. Conf. Finals,['popovgr99c'],leonaka01
+SAS,2015-16,San Antonio Spurs,NBA,San Antonio Spurs*,67,15,0.817,1st of 5,10.28,93.8,-2.0,110.3,3.9,99.0,-7.4,Lost W. Conf. Semis,['popovgr99c'],leonaka01
+SAS,2014-15,San Antonio Spurs,NBA,San Antonio Spurs*,55,27,0.671,3rd of 5,6.34,93.8,-0.1,108.5,2.9,102.0,-3.6,Lost W. Conf. 1st Rnd.,['popovgr99c'],duncati01
+SAS,2013-14,San Antonio Spurs,NBA,San Antonio Spurs*,62,20,0.756,1st of 5,8.0,95.0,1.1,110.5,3.8,102.4,-4.3,Won Finals,['popovgr99c'],leonaka01
+SAS,2012-13,San Antonio Spurs,NBA,San Antonio Spurs*,58,24,0.707,1st of 5,6.67,94.2,2.2,108.3,2.4,101.6,-4.3,Lost Finals,['popovgr99c'],parketo01
+SAS,2011-12,San Antonio Spurs,NBA,San Antonio Spurs*,50,16,0.758,1st of 5,7.28,92.9,1.6,110.9,6.3,103.2,-1.4,Lost W. Conf. Finals,['popovgr99c'],parketo01
+SAS,2010-11,San Antonio Spurs,NBA,San Antonio Spurs*,61,21,0.744,1st of 5,5.86,92.3,0.2,111.8,4.5,105.6,-1.7,Lost W. Conf. 1st Rnd.,['popovgr99c'],ginobma01
+SAS,2009-10,San Antonio Spurs,NBA,San Antonio Spurs*,50,32,0.61,2nd of 5,5.07,91.7,-1.0,110.0,2.4,104.5,-3.1,Lost W. Conf. Semis,['popovgr99c'],duncati01
+TOR,2020-21,Toronto Raptors,NBA,Toronto Raptors,27,45,0.375,5th of 5,-0.54,99.2,0.0,112.0,-0.3,112.5,0.2,,['nurseni01c'],bouchch01
+TOR,2019-20,Toronto Raptors,NBA,Toronto Raptors*,53,19,0.736,1st of 5,5.97,100.9,0.6,111.1,0.5,105.0,-5.6,Lost E. Conf. Semis,['nurseni01c'],lowryky01
+TOR,2018-19,Toronto Raptors,NBA,Toronto Raptors*,58,24,0.707,1st of 5,5.49,100.2,0.2,113.1,2.7,107.1,-3.3,Won Finals,['nurseni01c'],leonaka01
+TOR,2017-18,Toronto Raptors,NBA,Toronto Raptors*,59,23,0.72,1st of 5,7.29,97.4,0.1,113.8,5.2,105.9,-2.7,Lost E. Conf. Semis,['caseydw99c'],lowryky01
+TOR,2016-17,Toronto Raptors,NBA,Toronto Raptors*,51,31,0.622,2nd of 5,3.65,94.7,-1.7,112.3,3.5,107.8,-1.0,Lost E. Conf. Semis,['caseydw99c'],lowryky01
+TOR,2015-16,Toronto Raptors,NBA,Toronto Raptors*,56,26,0.683,1st of 5,4.08,92.9,-2.9,110.0,3.6,105.2,-1.2,Lost E. Conf. Finals,['caseydw99c'],lowryky01
+TOR,2014-15,Toronto Raptors,NBA,Toronto Raptors*,49,33,0.598,1st of 5,2.45,92.8,-1.1,111.0,5.4,107.7,2.1,Lost E. Conf. 1st Rnd.,['caseydw99c'],valanjo01
+TOR,2013-14,Toronto Raptors,NBA,Toronto Raptors*,48,34,0.585,1st of 5,2.55,91.8,-2.1,108.8,2.1,105.3,-1.4,Lost E. Conf. 1st Rnd.,['caseydw99c'],lowryky01
+TOR,2012-13,Toronto Raptors,NBA,Toronto Raptors,34,48,0.415,5th of 5,-1.96,90.4,-1.6,105.9,0.0,107.5,1.6,,['caseydw99c'],johnsam01
+TOR,2011-12,Toronto Raptors,NBA,Toronto Raptors,23,43,0.348,4th of 5,-3.67,89.3,-2.0,100.8,-3.8,104.5,-0.1,,['caseydw99c'],caldejo01
+TOR,2010-11,Toronto Raptors,NBA,Toronto Raptors,22,60,0.268,5th of 5,-6.28,92.9,0.8,106.1,-1.2,112.9,5.6,,['trianja99c'],johnsam01
+TOR,2009-10,Toronto Raptors,NBA,Toronto Raptors,40,42,0.488,2nd of 5,-1.83,93.1,0.4,111.3,3.7,113.2,5.6,,['trianja99c'],boshch01
+UTA,2020-21,Utah Jazz,NBA,Utah Jazz*,52,20,0.722,1st of 5,8.97,98.5,-0.7,117.6,5.3,108.3,-4.0,Lost W. Conf. Semis,['snydequ01c'],goberru01
+UTA,2019-20,Utah Jazz,NBA,Utah Jazz*,44,28,0.611,3rd of 5,2.52,98.6,-1.7,112.3,1.7,109.9,-0.7,Lost W. Conf. 1st Rnd.,['snydequ01c'],goberru01
+UTA,2018-19,Utah Jazz,NBA,Utah Jazz*,50,32,0.61,3rd of 5,5.28,100.3,0.3,110.9,0.5,105.7,-4.7,Lost W. Conf. 1st Rnd.,['snydequ01c'],goberru01
+UTA,2017-18,Utah Jazz,NBA,Utah Jazz*,48,34,0.585,3rd of 5,4.47,95.7,-1.6,108.4,-0.2,103.9,-4.7,Lost W. Conf. Semis,['snydequ01c'],goberru01
+UTA,2016-17,Utah Jazz,NBA,Utah Jazz*,51,31,0.622,1st of 5,4.0,91.6,-4.8,109.6,0.8,105.3,-3.5,Lost W. Conf. Semis,['snydequ01c'],goberru01
+UTA,2015-16,Utah Jazz,NBA,Utah Jazz,40,42,0.488,3rd of 5,1.84,91.0,-4.8,105.9,-0.5,103.9,-2.5,,['snydequ01c'],haywago01
+UTA,2014-15,Utah Jazz,NBA,Utah Jazz,38,44,0.463,3rd of 5,0.71,90.4,-3.5,105.1,-0.5,104.9,-0.7,,['snydequ01c'],goberru01
+UTA,2013-14,Utah Jazz,NBA,Utah Jazz,25,57,0.305,5th of 5,-6.27,91.4,-2.5,103.5,-3.2,111.3,4.6,,['corbity01c'],favorde01
+UTA,2012-13,Utah Jazz,NBA,Utah Jazz,43,39,0.524,3rd of 5,0.3,90.9,-1.1,106.7,0.8,106.8,0.9,,['corbity01c'],jeffeal01
+UTA,2011-12,Utah Jazz,NBA,Utah Jazz*,36,30,0.545,3rd of 5,0.92,91.4,0.1,106.8,2.2,106.1,1.5,Lost W. Conf. 1st Rnd.,['corbity01c'],millspa01
+UTA,2010-11,Utah Jazz,NBA,Utah Jazz,39,43,0.476,4th of 5,-1.44,91.0,-1.1,108.1,0.8,110.1,2.8,,"['sloanje01c', 'corbity01c']",jeffeal01
+UTA,2009-10,Utah Jazz,NBA,Utah Jazz*,53,29,0.646,2nd of 5,5.33,93.8,1.1,110.7,3.1,105.0,-2.6,Lost W. Conf. Semis,['sloanje01c'],willide01
+WAS,2020-21,Washington Wizards,NBA,Washington Wizards*,34,38,0.472,3rd of 5,-1.85,104.1,4.9,111.2,-1.1,113.0,0.7,Lost E. Conf. 1st Rnd.,['brooksc01c'],bealbr01
+WAS,2019-20,Washington Wizards,NBA,Washington Wizards,25,47,0.347,4th of 5,-5.24,102.7,2.4,110.9,0.3,115.5,4.9,,['brooksc01c'],bealbr01
+WAS,2018-19,Washington Wizards,NBA,Washington Wizards,32,50,0.39,4th of 5,-3.3,101.4,1.4,111.1,0.7,113.9,3.5,,['brooksc01c'],bealbr01
+WAS,2017-18,Washington Wizards,NBA,Washington Wizards*,43,39,0.524,2nd of 5,0.53,96.6,-0.7,109.3,0.7,108.7,0.1,Lost E. Conf. 1st Rnd.,['brooksc01c'],porteot01
+WAS,2016-17,Washington Wizards,NBA,Washington Wizards*,49,33,0.598,1st of 5,1.36,97.4,1.0,111.2,2.4,109.3,0.5,Lost E. Conf. Semis,['brooksc01c'],porteot01
+WAS,2015-16,Washington Wizards,NBA,Washington Wizards,41,41,0.5,4th of 5,-0.5,98.5,2.7,105.3,-1.1,105.8,-0.6,,['wittmra01c'],gortama01
+WAS,2014-15,Washington Wizards,NBA,Washington Wizards*,46,36,0.561,2nd of 5,0.17,93.7,-0.2,103.7,-1.9,103.0,-2.6,Lost E. Conf. Semis,['wittmra01c'],gortama01
+WAS,2013-14,Washington Wizards,NBA,Washington Wizards*,44,38,0.537,2nd of 5,0.48,93.2,-0.7,106.0,-0.7,104.6,-2.1,Lost E. Conf. Semis,['wittmra01c'],gortama01
+WAS,2012-13,Washington Wizards,NBA,Washington Wizards,29,53,0.354,3rd of 5,-2.78,92.2,0.2,100.2,-5.7,103.0,-2.9,,['wittmra01c'],webstma02
+WAS,2011-12,Washington Wizards,NBA,Washington Wizards,20,46,0.303,4th of 5,-5.14,92.5,1.2,101.0,-3.6,106.2,1.6,,"['saundfl99c', 'wittmra01c']",walljo01
+WAS,2010-11,Washington Wizards,NBA,Washington Wizards,23,59,0.28,5th of 5,-7.3,93.8,1.7,102.4,-4.9,110.2,2.9,,['saundfl99c'],mcgeeja01
+WAS,2009-10,Washington Wizards,NBA,Washington Wizards,26,56,0.317,5th of 5,-4.72,91.6,-1.1,104.2,-3.4,109.4,1.8,,['saundfl99c'],haywobr01
